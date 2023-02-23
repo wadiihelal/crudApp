@@ -1,0 +1,7 @@
+spring:
+  data:
+    mongodb:
+      uri: mongodb+srv://wadia60:Emna1977@pacex.uamqp6y.mongodb.net/?retryWrites=true&w=majority
+      database : PaceX
+server:
+  port: 8080
